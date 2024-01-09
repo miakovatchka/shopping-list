@@ -1,3 +1,6 @@
 - Yoghurt
 - Fruit
 - Egg whites
+- Brownies
+- Chicken nuggets
+- Pickles
